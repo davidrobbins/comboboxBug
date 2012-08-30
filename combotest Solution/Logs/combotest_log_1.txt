@@ -1,0 +1,100 @@
+2012-08-30 07:38:15 [com.wakanda-software.combotest] INFO - Opening the solution
+2012-08-30 07:38:15 [com.wakanda-software.combotest] INFO - Opening the users and groups directory
+2012-08-30 07:38:15 [com.wakanda-software.combotest] INFO - Users and groups directory opened (duration: 23 ms)
+2012-08-30 07:38:15 [com.wakanda-software.combotest.myTestCombobox] INFO - Opening the project
+2012-08-30 07:38:15 [com.wakanda-software.combotest.myTestCombobox] INFO - Opening the database
+2012-08-30 07:38:15 [com.wakanda-software.combotest.myTestCombobox] INFO - Database opened (duration: 4 ms)
+2012-08-30 07:38:15 [com.wakanda-software.combotest.myTestCombobox] INFO - Project opened (duration: 13 ms)
+2012-08-30 07:38:15 [com.wakanda-software.combotest.ServerAdmin] INFO - Opening the project
+2012-08-30 07:38:15 [com.wakanda-software.combotest.ServerAdmin] INFO - Project opened (duration: 4 ms)
+2012-08-30 07:38:15 [com.wakanda-software.combotest] INFO - Solution opened (duration: 136 ms)
+2012-08-30 07:38:15 [com.wakanda-software.combotest] INFO - Starting the solution
+2012-08-30 07:38:15 [com.wakanda-software.combotest.myTestCombobox] INFO - Starting the project
+2012-08-30 07:38:15 [com.wakanda-software.combotest.myTestCombobox] INFO - Starting the HTTP server
+2012-08-30 07:38:15 [com.wakanda-software.combotest.myTestCombobox] INFO - HTTP server started (duration: 21 ms)
+2012-08-30 07:38:15 [com.wakanda-software.combotest.myTestCombobox] INFO - Project started (duration: 78 ms)
+2012-08-30 07:38:15 [com.wakanda-software.combotest.ServerAdmin] INFO - Starting the project
+2012-08-30 07:38:16 [com.wakanda-software.combotest.ServerAdmin] INFO - Starting the HTTP server
+2012-08-30 07:38:16 [com.wakanda-software.combotest.ServerAdmin] INFO - HTTP server started (duration: 24 ms)
+2012-08-30 07:38:16 [com.wakanda-software.combotest.ServerAdmin] INFO - Project started (duration: 62 ms)
+2012-08-30 07:38:16 [com.wakanda-software.combotest.myTestCombobox] INFO - Executing the bootstrap(s)
+2012-08-30 07:38:16 [com.wakanda-software.combotest.myTestCombobox] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-08-30 07:38:16 [com.wakanda-software.combotest.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-08-30 07:38:16 [com.wakanda-software.combotest.ServerAdmin] INFO - Bootstrap(s) executed (duration: 8 ms)
+2012-08-30 07:38:16 [com.wakanda-software.combotest] INFO - Solution started (duration: 150 ms)
+2012-08-30 07:42:12 [com.wakanda-software.combotest] INFO - Stopping the solution
+2012-08-30 07:42:12 [com.wakanda-software.combotest.myTestCombobox] INFO - Stopping the project
+2012-08-30 07:42:14 [com.wakanda-software.combotest.myTestCombobox] INFO - Project stopped (duration: 1051 ms)
+2012-08-30 07:42:14 [com.wakanda-software.combotest.ServerAdmin] INFO - Stopping the project
+2012-08-30 07:42:16 [com.wakanda-software.combotest.ServerAdmin] INFO - Project stopped (duration: 2051 ms)
+2012-08-30 07:42:16 [com.wakanda-software.combotest] INFO - Solution stopped (duration: 3103 ms)
+2012-08-30 07:42:16 [com.wakanda-software.combotest] INFO - Closing the solution
+2012-08-30 07:42:16 [com.wakanda-software.combotest.myTestCombobox] INFO - Closing the project
+2012-08-30 07:42:16 [com.wakanda-software.combotest.myTestCombobox] INFO - Closing the database
+2012-08-30 07:42:16 [com.wakanda-software.combotest.myTestCombobox] INFO - Database closed (duration: 469 ms)
+2012-08-30 07:42:16 [com.wakanda-software.combotest.myTestCombobox] INFO - Project closed (duration: 550 ms)
+2012-08-30 07:42:16 [com.wakanda-software.combotest.ServerAdmin] INFO - Closing the project
+2012-08-30 07:42:16 [com.wakanda-software.combotest.ServerAdmin] INFO - Project closed (duration: 63 ms)
+2012-08-30 07:42:17 [com.wakanda-software.combotest] INFO - Solution closed (duration: 1021 ms)
+2012-08-30 14:41:03 [com.wakanda-software.combotest] INFO - Opening the solution
+2012-08-30 14:41:03 [com.wakanda-software.combotest] INFO - Opening the users and groups directory
+2012-08-30 14:41:03 [com.wakanda-software.combotest] INFO - Users and groups directory opened (duration: 19 ms)
+2012-08-30 14:41:03 [com.wakanda-software.combotest.myTestCombobox] INFO - Opening the project
+2012-08-30 14:41:03 [com.wakanda-software.combotest.myTestCombobox] INFO - Opening the database
+2012-08-30 14:41:03 [com.wakanda-software.combotest.myTestCombobox] INFO - Database opened (duration: 4 ms)
+2012-08-30 14:41:03 [com.wakanda-software.combotest.myTestCombobox] INFO - Project opened (duration: 13 ms)
+2012-08-30 14:41:03 [com.wakanda-software.combotest.ServerAdmin] INFO - Opening the project
+2012-08-30 14:41:03 [com.wakanda-software.combotest.ServerAdmin] INFO - Project opened (duration: 5 ms)
+2012-08-30 14:41:03 [com.wakanda-software.combotest] INFO - Solution opened (duration: 130 ms)
+2012-08-30 14:41:03 [com.wakanda-software.combotest] INFO - Starting the solution
+2012-08-30 14:41:03 [com.wakanda-software.combotest.myTestCombobox] INFO - Starting the project
+2012-08-30 14:41:03 [com.wakanda-software.combotest.myTestCombobox] INFO - Starting the HTTP server
+2012-08-30 14:41:03 [com.wakanda-software.combotest.myTestCombobox] INFO - HTTP server started (duration: 21 ms)
+2012-08-30 14:41:03 [com.wakanda-software.combotest.myTestCombobox] INFO - Project started (duration: 61 ms)
+2012-08-30 14:41:03 [com.wakanda-software.combotest.ServerAdmin] INFO - Starting the project
+2012-08-30 14:41:03 [com.wakanda-software.combotest.ServerAdmin] INFO - Starting the HTTP server
+2012-08-30 14:41:03 [com.wakanda-software.combotest.ServerAdmin] INFO - HTTP server started (duration: 23 ms)
+2012-08-30 14:41:03 [com.wakanda-software.combotest.ServerAdmin] INFO - Project started (duration: 58 ms)
+2012-08-30 14:41:03 [com.wakanda-software.combotest.myTestCombobox] INFO - Executing the bootstrap(s)
+2012-08-30 14:41:03 [com.wakanda-software.combotest.myTestCombobox] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-08-30 14:41:03 [com.wakanda-software.combotest.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-08-30 14:41:03 [com.wakanda-software.combotest.ServerAdmin] INFO - Bootstrap(s) executed (duration: 8 ms)
+2012-08-30 14:41:03 [com.wakanda-software.combotest] INFO - Solution started (duration: 128 ms)
+2012-08-30 14:52:42 [com.wakanda-software.combotest] INFO - Stopping the solution
+2012-08-30 14:52:42 [com.wakanda-software.combotest.myTestCombobox] INFO - Stopping the project
+2012-08-30 14:52:43 [com.wakanda-software.combotest.myTestCombobox] INFO - Project stopped (duration: 1051 ms)
+2012-08-30 14:52:43 [com.wakanda-software.combotest.ServerAdmin] INFO - Stopping the project
+2012-08-30 14:52:45 [com.wakanda-software.combotest.ServerAdmin] INFO - Project stopped (duration: 2055 ms)
+2012-08-30 14:52:45 [com.wakanda-software.combotest] INFO - Solution stopped (duration: 3106 ms)
+2012-08-30 14:52:45 [com.wakanda-software.combotest] INFO - Closing the solution
+2012-08-30 14:52:45 [com.wakanda-software.combotest.myTestCombobox] INFO - Closing the project
+2012-08-30 14:52:45 [com.wakanda-software.combotest.myTestCombobox] INFO - Closing the database
+2012-08-30 14:52:45 [com.wakanda-software.combotest.myTestCombobox] INFO - Database closed (duration: 406 ms)
+2012-08-30 14:52:45 [com.wakanda-software.combotest.myTestCombobox] INFO - Project closed (duration: 408 ms)
+2012-08-30 14:52:45 [com.wakanda-software.combotest.ServerAdmin] INFO - Closing the project
+2012-08-30 14:52:45 [com.wakanda-software.combotest.ServerAdmin] INFO - Project closed (duration: 3 ms)
+2012-08-30 14:52:46 [com.wakanda-software.combotest] INFO - Solution closed (duration: 819 ms)
+2012-08-30 14:55:07 [com.wakanda-software.combotest] INFO - Opening the solution
+2012-08-30 14:55:07 [com.wakanda-software.combotest] INFO - Opening the users and groups directory
+2012-08-30 14:55:07 [com.wakanda-software.combotest] INFO - Users and groups directory opened (duration: 27 ms)
+2012-08-30 14:55:07 [com.wakanda-software.combotest.myTestCombobox] INFO - Opening the project
+2012-08-30 14:55:07 [com.wakanda-software.combotest.myTestCombobox] INFO - Opening the database
+2012-08-30 14:55:07 [com.wakanda-software.combotest.myTestCombobox] INFO - Database opened (duration: 4 ms)
+2012-08-30 14:55:07 [com.wakanda-software.combotest.myTestCombobox] INFO - Project opened (duration: 15 ms)
+2012-08-30 14:55:07 [com.wakanda-software.combotest.ServerAdmin] INFO - Opening the project
+2012-08-30 14:55:07 [com.wakanda-software.combotest.ServerAdmin] INFO - Project opened (duration: 5 ms)
+2012-08-30 14:55:07 [com.wakanda-software.combotest] INFO - Solution opened (duration: 73 ms)
+2012-08-30 14:55:07 [com.wakanda-software.combotest] INFO - Starting the solution
+2012-08-30 14:55:07 [com.wakanda-software.combotest.myTestCombobox] INFO - Starting the project
+2012-08-30 14:55:07 [com.wakanda-software.combotest.myTestCombobox] INFO - Starting the HTTP server
+2012-08-30 14:55:07 [com.wakanda-software.combotest.myTestCombobox] INFO - HTTP server started (duration: 21 ms)
+2012-08-30 14:55:07 [com.wakanda-software.combotest.myTestCombobox] INFO - Project started (duration: 62 ms)
+2012-08-30 14:55:07 [com.wakanda-software.combotest.ServerAdmin] INFO - Starting the project
+2012-08-30 14:55:07 [com.wakanda-software.combotest.ServerAdmin] INFO - Starting the HTTP server
+2012-08-30 14:55:08 [com.wakanda-software.combotest.ServerAdmin] INFO - HTTP server started (duration: 23 ms)
+2012-08-30 14:55:08 [com.wakanda-software.combotest.ServerAdmin] INFO - Project started (duration: 57 ms)
+2012-08-30 14:55:08 [com.wakanda-software.combotest.myTestCombobox] INFO - Executing the bootstrap(s)
+2012-08-30 14:55:08 [com.wakanda-software.combotest.myTestCombobox] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-08-30 14:55:08 [com.wakanda-software.combotest.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-08-30 14:55:08 [com.wakanda-software.combotest.ServerAdmin] INFO - Bootstrap(s) executed (duration: 8 ms)
+2012-08-30 14:55:08 [com.wakanda-software.combotest] INFO - Solution started (duration: 129 ms)

@@ -1,0 +1,114 @@
+2012-08-30 16:16:07 [com.wakanda-software.comboBoxSolution] INFO - Opening the solution
+2012-08-30 16:16:07 [com.wakanda-software.comboBoxSolution] INFO - Opening the users and groups directory
+2012-08-30 16:16:07 [com.wakanda-software.comboBoxSolution] INFO - Users and groups directory opened (duration: 25 ms)
+2012-08-30 16:16:07 [com.wakanda-software.comboBoxSolution.comboxBoxBugProj] INFO - Opening the project
+2012-08-30 16:16:07 [com.wakanda-software.comboBoxSolution.comboxBoxBugProj] INFO - Opening the database
+2012-08-30 16:16:07 [com.wakanda-software.comboBoxSolution.comboxBoxBugProj] INFO - Database opened (duration: 4 ms)
+2012-08-30 16:16:07 [com.wakanda-software.comboBoxSolution.comboxBoxBugProj] INFO - Project opened (duration: 9 ms)
+2012-08-30 16:16:07 [com.wakanda-software.comboBoxSolution.ServerAdmin] INFO - Opening the project
+2012-08-30 16:16:07 [com.wakanda-software.comboBoxSolution.ServerAdmin] INFO - Project opened (duration: 4 ms)
+2012-08-30 16:16:07 [com.wakanda-software.comboBoxSolution] INFO - Solution opened (duration: 73 ms)
+2012-08-30 16:16:07 [com.wakanda-software.comboBoxSolution] INFO - Starting the solution
+2012-08-30 16:16:07 [com.wakanda-software.comboBoxSolution.comboxBoxBugProj] INFO - Starting the project
+2012-08-30 16:16:07 [com.wakanda-software.comboBoxSolution.comboxBoxBugProj] INFO - Starting the HTTP server
+2012-08-30 16:16:07 [com.wakanda-software.comboBoxSolution.comboxBoxBugProj] INFO - HTTP server started (duration: 22 ms)
+2012-08-30 16:16:07 [com.wakanda-software.comboBoxSolution.comboxBoxBugProj] INFO - Project started (duration: 58 ms)
+2012-08-30 16:16:07 [com.wakanda-software.comboBoxSolution.ServerAdmin] INFO - Starting the project
+2012-08-30 16:16:07 [com.wakanda-software.comboBoxSolution.ServerAdmin] INFO - Starting the HTTP server
+2012-08-30 16:16:07 [com.wakanda-software.comboBoxSolution.ServerAdmin] INFO - HTTP server started (duration: 23 ms)
+2012-08-30 16:16:07 [com.wakanda-software.comboBoxSolution.ServerAdmin] INFO - Project started (duration: 58 ms)
+2012-08-30 16:16:07 [com.wakanda-software.comboBoxSolution.comboxBoxBugProj] INFO - Executing the bootstrap(s)
+2012-08-30 16:16:07 [com.wakanda-software.comboBoxSolution.comboxBoxBugProj] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-08-30 16:16:07 [com.wakanda-software.comboBoxSolution.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-08-30 16:16:07 [com.wakanda-software.comboBoxSolution.ServerAdmin] INFO - Bootstrap(s) executed (duration: 9 ms)
+2012-08-30 16:16:07 [com.wakanda-software.comboBoxSolution] INFO - Solution started (duration: 126 ms)
+2012-08-30 16:16:27 [com.wakanda-software.comboBoxSolution] INFO - Stopping the solution
+2012-08-30 16:16:27 [com.wakanda-software.comboBoxSolution.comboxBoxBugProj] INFO - Stopping the project
+2012-08-30 16:16:29 [com.wakanda-software.comboBoxSolution.comboxBoxBugProj] INFO - Project stopped (duration: 2049 ms)
+2012-08-30 16:16:29 [com.wakanda-software.comboBoxSolution.ServerAdmin] INFO - Stopping the project
+2012-08-30 16:16:31 [com.wakanda-software.comboBoxSolution.ServerAdmin] INFO - Project stopped (duration: 2050 ms)
+2012-08-30 16:16:31 [com.wakanda-software.comboBoxSolution] INFO - Solution stopped (duration: 4100 ms)
+2012-08-30 16:16:31 [com.wakanda-software.comboBoxSolution] INFO - Closing the solution
+2012-08-30 16:16:31 [com.wakanda-software.comboBoxSolution.comboxBoxBugProj] INFO - Closing the project
+2012-08-30 16:16:31 [com.wakanda-software.comboBoxSolution.comboxBoxBugProj] INFO - Closing the database
+2012-08-30 16:16:31 [com.wakanda-software.comboBoxSolution.comboxBoxBugProj] INFO - Database closed (duration: 405 ms)
+2012-08-30 16:16:32 [com.wakanda-software.comboBoxSolution.comboxBoxBugProj] INFO - Project closed (duration: 493 ms)
+2012-08-30 16:16:32 [com.wakanda-software.comboBoxSolution.ServerAdmin] INFO - Closing the project
+2012-08-30 16:16:32 [com.wakanda-software.comboBoxSolution.ServerAdmin] INFO - Project closed (duration: 3 ms)
+2012-08-30 16:16:32 [com.wakanda-software.comboBoxSolution] INFO - Solution closed (duration: 905 ms)
+2012-08-30 16:17:07 [com.wakanda-software.comboBoxSolution] INFO - Opening the solution
+2012-08-30 16:17:07 [com.wakanda-software.comboBoxSolution] INFO - Opening the users and groups directory
+2012-08-30 16:17:07 [com.wakanda-software.comboBoxSolution] INFO - Users and groups directory opened (duration: 65 ms)
+2012-08-30 16:17:07 [com.wakanda-software.comboBoxSolution.comboxBoxBugProj] INFO - Opening the project
+2012-08-30 16:17:07 [com.wakanda-software.comboBoxSolution.comboxBoxBugProj] INFO - Opening the database
+2012-08-30 16:17:07 [com.wakanda-software.comboBoxSolution.comboxBoxBugProj] INFO - Database opened (duration: 4 ms)
+2012-08-30 16:17:07 [com.wakanda-software.comboBoxSolution.comboxBoxBugProj] INFO - Project opened (duration: 13 ms)
+2012-08-30 16:17:07 [com.wakanda-software.comboBoxSolution.ServerAdmin] INFO - Opening the project
+2012-08-30 16:17:07 [com.wakanda-software.comboBoxSolution.ServerAdmin] INFO - Project opened (duration: 6 ms)
+2012-08-30 16:17:07 [com.wakanda-software.comboBoxSolution] INFO - Solution opened (duration: 111 ms)
+2012-08-30 16:17:07 [com.wakanda-software.comboBoxSolution] INFO - Starting the solution
+2012-08-30 16:17:07 [com.wakanda-software.comboBoxSolution.comboxBoxBugProj] INFO - Starting the project
+2012-08-30 16:17:07 [com.wakanda-software.comboBoxSolution.comboxBoxBugProj] INFO - Starting the HTTP server
+2012-08-30 16:17:07 [com.wakanda-software.comboBoxSolution.comboxBoxBugProj] INFO - HTTP server started (duration: 21 ms)
+2012-08-30 16:17:07 [com.wakanda-software.comboBoxSolution.comboxBoxBugProj] INFO - Project started (duration: 63 ms)
+2012-08-30 16:17:07 [com.wakanda-software.comboBoxSolution.ServerAdmin] INFO - Starting the project
+2012-08-30 16:17:07 [com.wakanda-software.comboBoxSolution.ServerAdmin] INFO - Starting the HTTP server
+2012-08-30 16:17:07 [com.wakanda-software.comboBoxSolution.ServerAdmin] INFO - HTTP server started (duration: 23 ms)
+2012-08-30 16:17:07 [com.wakanda-software.comboBoxSolution.ServerAdmin] INFO - Project started (duration: 59 ms)
+2012-08-30 16:17:07 [com.wakanda-software.comboBoxSolution.comboxBoxBugProj] INFO - Executing the bootstrap(s)
+2012-08-30 16:17:07 [com.wakanda-software.comboBoxSolution.comboxBoxBugProj] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-08-30 16:17:07 [com.wakanda-software.comboBoxSolution.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-08-30 16:17:07 [com.wakanda-software.comboBoxSolution.ServerAdmin] INFO - Bootstrap(s) executed (duration: 8 ms)
+2012-08-30 16:17:07 [com.wakanda-software.comboBoxSolution] INFO - Solution started (duration: 131 ms)
+2012-08-30 16:17:15 [com.wakanda-software.comboBoxSolution] INFO - Stopping the solution
+2012-08-30 16:17:15 [com.wakanda-software.comboBoxSolution.comboxBoxBugProj] INFO - Stopping the project
+2012-08-30 16:17:16 [com.wakanda-software.comboBoxSolution.comboxBoxBugProj] INFO - Project stopped (duration: 1047 ms)
+2012-08-30 16:17:16 [com.wakanda-software.comboBoxSolution.ServerAdmin] INFO - Stopping the project
+2012-08-30 16:17:18 [com.wakanda-software.comboBoxSolution.ServerAdmin] INFO - Project stopped (duration: 2052 ms)
+2012-08-30 16:17:18 [com.wakanda-software.comboBoxSolution] INFO - Solution stopped (duration: 3099 ms)
+2012-08-30 16:17:18 [com.wakanda-software.comboBoxSolution] INFO - Closing the solution
+2012-08-30 16:17:18 [com.wakanda-software.comboBoxSolution.comboxBoxBugProj] INFO - Closing the project
+2012-08-30 16:17:18 [com.wakanda-software.comboBoxSolution.comboxBoxBugProj] INFO - Closing the database
+2012-08-30 16:17:18 [com.wakanda-software.comboBoxSolution.comboxBoxBugProj] INFO - Database closed (duration: 407 ms)
+2012-08-30 16:17:18 [com.wakanda-software.comboBoxSolution.comboxBoxBugProj] INFO - Project closed (duration: 407 ms)
+2012-08-30 16:17:18 [com.wakanda-software.comboBoxSolution.ServerAdmin] INFO - Closing the project
+2012-08-30 16:17:18 [com.wakanda-software.comboBoxSolution.ServerAdmin] INFO - Project closed (duration: 3 ms)
+2012-08-30 16:17:19 [com.wakanda-software.comboBoxSolution] INFO - Solution closed (duration: 816 ms)
+2012-08-30 16:17:58 [com.wakanda-software.comboBoxSolution] INFO - Opening the solution
+2012-08-30 16:17:58 [com.wakanda-software.comboBoxSolution] INFO - Opening the users and groups directory
+2012-08-30 16:17:58 [com.wakanda-software.comboBoxSolution] INFO - Users and groups directory opened (duration: 62 ms)
+2012-08-30 16:17:58 [com.wakanda-software.comboBoxSolution.comboxBoxBugProj] INFO - Opening the project
+2012-08-30 16:17:58 [com.wakanda-software.comboBoxSolution.comboxBoxBugProj] INFO - Opening the database
+2012-08-30 16:17:58 [com.wakanda-software.comboBoxSolution.comboxBoxBugProj] INFO - Database opened (duration: 5 ms)
+2012-08-30 16:17:58 [com.wakanda-software.comboBoxSolution.comboxBoxBugProj] INFO - Project opened (duration: 16 ms)
+2012-08-30 16:17:58 [com.wakanda-software.comboBoxSolution.ServerAdmin] INFO - Opening the project
+2012-08-30 16:17:58 [com.wakanda-software.comboBoxSolution.ServerAdmin] INFO - Project opened (duration: 4 ms)
+2012-08-30 16:17:58 [com.wakanda-software.comboBoxSolution] INFO - Solution opened (duration: 110 ms)
+2012-08-30 16:17:58 [com.wakanda-software.comboBoxSolution] INFO - Starting the solution
+2012-08-30 16:17:58 [com.wakanda-software.comboBoxSolution.comboxBoxBugProj] INFO - Starting the project
+2012-08-30 16:17:58 [com.wakanda-software.comboBoxSolution.comboxBoxBugProj] INFO - Starting the HTTP server
+2012-08-30 16:17:58 [com.wakanda-software.comboBoxSolution.comboxBoxBugProj] INFO - HTTP server started (duration: 21 ms)
+2012-08-30 16:17:58 [com.wakanda-software.comboBoxSolution.comboxBoxBugProj] INFO - Project started (duration: 62 ms)
+2012-08-30 16:17:58 [com.wakanda-software.comboBoxSolution.ServerAdmin] INFO - Starting the project
+2012-08-30 16:17:58 [com.wakanda-software.comboBoxSolution.ServerAdmin] INFO - Starting the HTTP server
+2012-08-30 16:17:58 [com.wakanda-software.comboBoxSolution.ServerAdmin] INFO - HTTP server started (duration: 22 ms)
+2012-08-30 16:17:58 [com.wakanda-software.comboBoxSolution.ServerAdmin] INFO - Project started (duration: 57 ms)
+2012-08-30 16:17:58 [com.wakanda-software.comboBoxSolution.comboxBoxBugProj] INFO - Executing the bootstrap(s)
+2012-08-30 16:17:58 [com.wakanda-software.comboBoxSolution.comboxBoxBugProj] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-08-30 16:17:58 [com.wakanda-software.comboBoxSolution.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-08-30 16:17:58 [com.wakanda-software.comboBoxSolution.ServerAdmin] INFO - Bootstrap(s) executed (duration: 8 ms)
+2012-08-30 16:17:58 [com.wakanda-software.comboBoxSolution] INFO - Solution started (duration: 128 ms)
+2012-08-30 16:18:15 [com.wakanda-software.comboBoxSolution] INFO - Stopping the solution
+2012-08-30 16:18:15 [com.wakanda-software.comboBoxSolution.comboxBoxBugProj] INFO - Stopping the project
+2012-08-30 16:18:16 [com.wakanda-software.comboBoxSolution.comboxBoxBugProj] INFO - Project stopped (duration: 1047 ms)
+2012-08-30 16:18:16 [com.wakanda-software.comboBoxSolution.ServerAdmin] INFO - Stopping the project
+2012-08-30 16:18:18 [com.wakanda-software.comboBoxSolution.ServerAdmin] INFO - Project stopped (duration: 2052 ms)
+2012-08-30 16:18:18 [com.wakanda-software.comboBoxSolution] INFO - Solution stopped (duration: 3100 ms)
+2012-08-30 16:18:18 [com.wakanda-software.comboBoxSolution] INFO - Closing the solution
+2012-08-30 16:18:18 [com.wakanda-software.comboBoxSolution.comboxBoxBugProj] INFO - Closing the project
+2012-08-30 16:18:18 [com.wakanda-software.comboBoxSolution.comboxBoxBugProj] INFO - Closing the database
+2012-08-30 16:18:18 [com.wakanda-software.comboBoxSolution.comboxBoxBugProj] INFO - Database closed (duration: 406 ms)
+2012-08-30 16:18:18 [com.wakanda-software.comboBoxSolution.comboxBoxBugProj] INFO - Project closed (duration: 408 ms)
+2012-08-30 16:18:18 [com.wakanda-software.comboBoxSolution.ServerAdmin] INFO - Closing the project
+2012-08-30 16:18:18 [com.wakanda-software.comboBoxSolution.ServerAdmin] INFO - Project closed (duration: 3 ms)
+2012-08-30 16:18:19 [com.wakanda-software.comboBoxSolution] INFO - Solution closed (duration: 818 ms)

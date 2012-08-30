@@ -1,0 +1,20 @@
+#Version: 1.0
+#Software: Wakanda/Dev build 0.117589 (MacOS-x64)
+#Date: 2012-08-30 16:16:10
+#Remark: format ELF
+#Fields: BYTES_SENT CS-CDNS C-IP CS(COOKIE) CS(HOST) CS(REFERER) CS(USER-AGENT) USER METHOD CS-SIP SC-STATUS CS-URI CS-URI-QUERY CS-URI-STEM DATE TIME TIME-TAKEN
+990 127.0.0.1 127.0.0.1 "WASID=138A669600B14E09BEA52A33795023E6" "127.0.0.1:8081" "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.82 Safari/537.1" - GET 127.0.0.1 200 /index.html - /index.html 2012-08-30 23:16:10 23:16:10 677
+811 127.0.0.1 127.0.0.1 "WASID=138A669600B14E09BEA52A33795023E6" "127.0.0.1:8081" "http://127.0.0.1:8081/index.html" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.82 Safari/537.1" - GET 127.0.0.1 200 /styles/index.css - /styles/index.css 2012-08-30 23:16:10 23:16:10 68
+134 127.0.0.1 127.0.0.1 "WASID=138A669600B14E09BEA52A33795023E6" "127.0.0.1:8081" "http://127.0.0.1:8081/index.html" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.82 Safari/537.1" - GET 127.0.0.1 200 /application.css - /application.css 2012-08-30 23:16:10 23:16:10 745
+423 127.0.0.1 127.0.0.1 "WASID=138A669600B14E09BEA52A33795023E6" "127.0.0.1:8081" "http://127.0.0.1:8081/index.html" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.82 Safari/537.1" - GET 127.0.0.1 200 /scripts/index.js - /scripts/index.js 2012-08-30 23:16:10 23:16:10 299
+2 127.0.0.1 127.0.0.1 "WASID=138A669600B14E09BEA52A33795023E6" "127.0.0.1:8081" "http://127.0.0.1:8081/index.html" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.82 Safari/537.1" - GET 127.0.0.1 200 /rest/$catalog/$all/ - /rest/$catalog/$all/ 2012-08-30 23:16:10 23:16:10 11
+#Version: 1.0
+#Software: Wakanda/Dev build 0.117589 (MacOS-x64)
+#Date: 2012-08-30 16:18:03
+#Remark: format ELF
+#Fields: BYTES_SENT CS-CDNS C-IP CS(COOKIE) CS(HOST) CS(REFERER) CS(USER-AGENT) USER METHOD CS-SIP SC-STATUS CS-URI CS-URI-QUERY CS-URI-STEM DATE TIME TIME-TAKEN
+0 127.0.0.1 127.0.0.1 "WASID=926258211F3D4F83AFF379C9019E1221" "127.0.0.1:8081" "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.82 Safari/537.1" - GET 127.0.0.1 304 /index.html - /index.html 2012-08-30 23:18:03 23:18:03 669
+0 127.0.0.1 127.0.0.1 "WASID=926258211F3D4F83AFF379C9019E1221" "127.0.0.1:8081" "http://127.0.0.1:8081/index.html" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.82 Safari/537.1" - GET 127.0.0.1 304 /styles/index.css - /styles/index.css 2012-08-30 23:18:03 23:18:03 719
+0 127.0.0.1 127.0.0.1 "WASID=926258211F3D4F83AFF379C9019E1221" "127.0.0.1:8081" "http://127.0.0.1:8081/index.html" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.82 Safari/537.1" - GET 127.0.0.1 304 /application.css - /application.css 2012-08-30 23:18:03 23:18:03 719
+0 127.0.0.1 127.0.0.1 "WASID=926258211F3D4F83AFF379C9019E1221" "127.0.0.1:8081" "http://127.0.0.1:8081/index.html" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.82 Safari/537.1" - GET 127.0.0.1 304 /scripts/index.js - /scripts/index.js 2012-08-30 23:18:03 23:18:03 1057
+2 127.0.0.1 127.0.0.1 "WASID=926258211F3D4F83AFF379C9019E1221" "127.0.0.1:8081" "http://127.0.0.1:8081/index.html" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.82 Safari/537.1" - GET 127.0.0.1 200 /rest/$catalog/$all/ - /rest/$catalog/$all/ 2012-08-30 23:18:04 23:18:04 1077
